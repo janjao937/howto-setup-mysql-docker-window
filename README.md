@@ -13,7 +13,7 @@ Status   Name               DisplayName
 Stopped  MySQL80            MySQL80
 
 *ต้องทำทุกครั้งถ้าจะใช้ MySQL ผ่าน docker เพราะ หลังเปิดเครื่อง  MySQL จะ auto running
-## run cmd as admin ปิด/เปิด 
+## run cmd as admin สำหรับ ปิด/เปิด mysql ในเครื่อง
 - net stop MySQL80
 - net start MySQL80
 
