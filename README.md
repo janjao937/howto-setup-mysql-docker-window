@@ -1,7 +1,7 @@
 # howto-setup-mysql-docker-window
 howto-setup-mysql-docker-window
 
-## (window search) Window feature on and off => virtual machine platform
+## (หาที่ window search) Window feature on and off => virtual machine platform
 - ถ้าเปิด docker ใช้ได้ | MySQL ในเครื่องจะใช้ไม่ได้
 - ถ้าปิด docker ใช้ไม่ได้ | MySQL ใช้ได้
 
