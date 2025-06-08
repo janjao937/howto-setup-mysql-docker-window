@@ -17,8 +17,8 @@ howto-setup-mysql-docker-window
 - net stop MySQL80
 - net start MySQL80
 
-## mysql ต้อง run 3306 เท่านั้น map ก็ไม่ได้
 # สรุป
+*mysql ต้อง run 3306 เท่านั้น map ก็ไม่ได้
 ## อยากใช้ MySQL-docker
 - (window search) Window feature on and off => virtual machine platform => เช็คถูก
 - run cmd as admin ใช้ => net stop MySQL80 
