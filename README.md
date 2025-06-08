@@ -9,7 +9,7 @@ howto-setup-mysql-docker-window
 - Get-Service | Where-Object {$_.DisplayName -like "*MySQL*"}
 
 Status   Name               DisplayName
-------   ----               -----------
+======   ====               =======
 Stopped  MySQL80            MySQL80
 
 *ต้องทำทุกครั้งถ้าจะใช้ MySQL ผ่าน docker เพราะ หลังเปิดเครื่อง  MySQL จะ auto running
