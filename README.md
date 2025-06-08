@@ -7,6 +7,9 @@ howto-setup-mysql-docker-window
 
 ## check MySQL ในเครื่อง
 - Get-Service | Where-Object {$_.DisplayName -like "*MySQL*"}
+- [OR]
+- netstat -ano | findstr :3306
+  
 ### output หลัง run check MySQL 
 - Stopped | MySQL80 | MySQL80
 - [OR]
