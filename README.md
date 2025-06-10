@@ -26,6 +26,10 @@ howto-setup-mysql-docker-window
 - (window search) Window feature on and off => virtual machine platform => เช็คถูก
 - run cmd as admin ใช้ => net stop MySQL80 
 
+## run docker-compose
+- docker compose up -d
+## ถ้าต้องการลบข้อมูลทุก volume ใน Docker ให้ใช้คำสั่งนี้
+- docker volume prune -f
 =========
 ## อยากกลับมาใช้ MySQL ในเครื่อง
 - (window search) Window feature on and off => virtual machine platform  => เอาเช็คถูกออก
