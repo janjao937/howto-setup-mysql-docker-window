@@ -34,3 +34,5 @@ howto-setup-mysql-docker-window
 ## อยากกลับมาใช้ MySQL ในเครื่อง
 - (window search) Window feature on and off => virtual machine platform  => เอาเช็คถูกออก
 - run cmd as admin ใช้ => net start MySQL80
+
+# cr.Boonyakit
